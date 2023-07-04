@@ -1,5 +1,8 @@
 # How to Read HTML Tables With Pandas
 
+[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+
+
 <a href="https://github.com/topics/pandas"><img src="https://img.shields.io/static/v1?label=&amp;message=pandas&amp;color=brightgreen" style="max-width: 100%;"></a> <a href="https://github.com/topics/web-scraping"><img src="https://img.shields.io/static/v1?label=&amp;message=Web%20Scraping&amp;color=important" style="max-width: 100%;"></a>
 
 - [How to Read HTML Tables With Pandas](#how-to-read-html-tables-with-pandas)
