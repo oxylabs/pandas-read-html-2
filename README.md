@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=pandas-read-html-2-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 
 <a href="https://github.com/topics/pandas"><img src="https://img.shields.io/static/v1?label=&amp;message=pandas&amp;color=brightgreen" style="max-width: 100%;"></a> <a href="https://github.com/topics/web-scraping"><img src="https://img.shields.io/static/v1?label=&amp;message=Web%20Scraping&amp;color=important" style="max-width: 100%;"></a>
